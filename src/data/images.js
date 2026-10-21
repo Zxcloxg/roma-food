@@ -1,6 +1,6 @@
 // Dish photos from Wikimedia Commons (free licenses), stored in the "images" branch of this repository.
 // They live outside main so Snack's git import doesn't have to upload them; Wikimedia itself blocks Android's image client.
-const BASE = 'https://raw.githubusercontent.com/Zxcloxg/foodie-roma/images/';
+const BASE = 'https://raw.githubusercontent.com/Zxcloxg/roma-food/images/';
 
 const IMG = {
   bruschetta: BASE + 'bruschetta.jpg',
